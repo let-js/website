@@ -8,12 +8,19 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
-  "keywords": ["letjs", "vue", "vite", "DDD", "MVC", "MVVM"],
+  "keywords": [
+    "letjs",
+    "vue",
+    "vite",
+    "DDD",
+    "MVC",
+    "MVVM"
+  ],
   "author": "https://github.com/let-js",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "1.0.0-alpha.27",
-    "vue": "^3.2.41"
+    "vitepress": "^1.0.0-alpha.29",
+    "vue": "^3.2.45"
   },
   "pnpm": {
     "peerDependencyRules": {
@@ -21,5 +28,6 @@
         "@algolia/client-search"
       ]
     }
-  }
+  },
+  "repository": "https://github.com/let-js/website.git"
 }
