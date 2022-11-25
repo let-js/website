@@ -14,6 +14,9 @@ export default defineConfig({
     // 默认主题配置
     siteTitle: ' ',
     logo: '/logo.png',
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/let-js' }
+    ],
     nav: [
       {
         text: '主页',

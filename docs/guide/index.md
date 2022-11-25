@@ -15,7 +15,7 @@ Letjs是一套前端工程化体系设计方案，结合领域驱动设计思想
 #### 设计思想
 letjs参考[DDD](https://en.wikipedia.org/wiki/Domain-driven_design)（Domain Driven Design）领域驱动设计，在前端也抽象出业务的领域，这样使得开发中更加关注业务理解，对后续设计更加高效。同时将视图层和业务层完全解耦，在业务迭代过程中，即使业务不断复杂膨胀，视图更加专注于页面展现，领域专注于业务模型，从而避免后续迭代过程中对整个前端工程复杂度的失控。领域驱动设计是一种思想，Letjs也取其适合前端项目的业务抽象，沉淀出前端项目的domain层。
 
-同时letjs在整体层级升级上也会借鉴经典的MVC、MVP、MVVM等设计思想，在组件划分上同样会结合AKF立方体设计理念。letjs相关设计思想详见：[Letjs设计思想白皮书](http://gitlab.qiyi.domain/letjs/docs/blob/master/letjs-whitepaper.pdf)
+同时letjs在整体层级升级上也会借鉴经典的MVC、MVP、MVVM等设计思想，在组件划分上同样会结合AKF立方体设计理念。letjs相关设计思想详见：[Letjs设计思想白皮书](https://github.com/let-js/docs/blob/master/letjs-whitepaper.md)
 
 ### Letjs的目标
 #### 和各种cli工具有啥不一样？
