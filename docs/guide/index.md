@@ -36,7 +36,7 @@ letjs 需要 [Node.js](https://nodejs.org/en/) >= 16
 letjs-cli 是一个简单的命令行工具，用于构建基于letjs的脚手架项目，支持选择项目模板，UI框架。
 
 ```sh
-$ npm install -g @iqiyi/lego-letjs-cli --registry=http://jfrog.cloud.qiyi.domain/api/npm/npm/
+$ npm install -g letjs-cli
 ```
 
 ### letjs 命令介绍
