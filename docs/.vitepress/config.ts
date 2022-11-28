@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
-  base: '/website/',
+  base: '/',
   title: 'letjs',
   titleTemplate: '前端工程化',
   description: 'Let.js官方文档',
