@@ -61,7 +61,7 @@ Run letjs <command> --help for detailed usage of given command.
 
 ```sh
 # 初始化工程
-letjs init demp-app
+letjs init demo-app
 # 选择框架
 ? please select framework: (Use arrow keys)
 ❯ vue 
@@ -79,7 +79,7 @@ letjs init demp-app
 ? please enter description.
 
 # 进入创建工程目录，安装NPM依赖，然后启动demo页面
-cd demp-app
+cd demo-app
 npm install
 npm run dev
 
